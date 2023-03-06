@@ -29,29 +29,8 @@ public static void main(String[] args) {
       numbers[indexSmallest] = temp;
    }
 
-
-
    // print the array 
    System.out.println(Arrays.toString(numbers));
-
-
-
-
-
-
-   
-
-   
-
-
-
-
-  
-
-
-
-
-
 
    }
 }
